@@ -1,0 +1,37 @@
+﻿@page
+@model RecruitCatPinisera.Pages.ApplyModel
+@{
+    ViewData["Title"] = "Apply Now";
+}
+
+<div class="container">
+    <p>We are hiring now. Please fill in the details for application.</p>
+    <hr>
+
+    <p style="padding-bottom:5px">
+        <label for="email"><b>Email</b></label>
+        <input type="text" placeholder="Enter Email" name="email" id="email" required>
+    </p>
+
+    <p style="padding-bottom:5px">
+        <label for="fname"><b>First Name</b></label>
+        <input type="text" placeholder="Enter First Name" name="fname" id="fname" required>
+    </p>
+
+    <p style="padding-bottom:5px">
+        <label for="lname"><b>Last Name</b></label>
+        <input type="text" placeholder="Enter Last Name" name="lname" id="lname" required>
+    </p>
+
+    <p style="padding-bottom:5px">
+        <label for="phone"><b>Phone number</b></label>
+        <input type="tel" placeholder="Enter Phone Number" id="phone" name="phone" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" required>
+        <small>Format: 123-456-7890</small>
+    </p>
+
+    <hr>
+    <p>By submitting the details, you agree to our <a asp-area="" asp-page="/Privacy">Terms & Privacy</a>.</p>
+
+    <button type="submit" class="registerbtn">Apply</button>
+</div>
+

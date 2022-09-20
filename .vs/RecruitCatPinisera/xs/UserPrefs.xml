@@ -1,0 +1,65 @@
+﻿<Properties StartupConfiguration="{7C77DD71-7577-40ED-896B-07B7BBE97700}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RecruitCatPinisera/Pages/Testimonials.cshtml">
+    <Files>
+      <File FileName="RecruitCatPinisera/Models/Candidates.cs" Line="7" Column="1" />
+      <File FileName="RecruitCatPinisera/Pages/index.cshtml" Line="17" Column="1" />
+      <File FileName="RecruitCatPinisera/Pages/index.cshtml.cs" Line="14" Column="1" />
+      <File FileName="RecruitCatPinisera/Pages/Error.cshtml" Line="1" Column="1" />
+      <File FileName="RecruitCatPinisera/Pages/OurTeam.cshtml" Line="10" Column="278" />
+      <File FileName="RecruitCatPinisera/Pages/OurTeam.cshtml.cs" Line="16" Column="2" />
+      <File FileName="RecruitCatPinisera/Pages/ContactUs.cshtml" Line="43" Column="7" />
+      <File FileName="RecruitCatPinisera/Pages/ContactUs.cshtml.cs" Line="16" Column="2" />
+      <File FileName="RecruitCatPinisera/Pages/Apply.cshtml" Line="38" Column="1" />
+      <File FileName="RecruitCatPinisera/Pages/Apply.cshtml.cs" Line="1" Column="1" />
+      <File FileName="RecruitCatPinisera/Pages/Testimonials.cshtml" Line="17" Column="5" />
+      <File FileName="RecruitCatPinisera/Pages/Testimonials.cshtml.cs" Line="1" Column="1" />
+      <File FileName="RecruitCatPinisera/Properties/launchSettings.json" Line="27" Column="2" />
+      <File FileName="RecruitCatPinisera/wwwroot/css/site.css" Line="1" Column="1" />
+      <File FileName="RecruitCatPinisera/Program.cs" Line="10" Column="2" />
+      <File FileName="RecruitCatPinisera/Models/JobTitle.cs" Line="29" Column="32" />
+      <File FileName="RecruitCatPinisera/Models/Company.cs" Line="42" Column="24" />
+      <File FileName="RecruitCatPinisera/Models/Industry.cs" Line="9" Column="29" />
+      <File FileName="RecruitCatPinisera/RecruitCatPinisera.csproj" Line="17" Column="13" />
+      <File FileName="RecruitCatPinisera/Pages/_ViewImports.cshtml" Line="1" Column="1" />
+      <File FileName="RecruitCatPinisera/wwwroot/lib/jquery/LICENSE.txt" Line="1" Column="1" />
+      <File FileName="RecruitCatPinisera.sln" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RecruitCatPinisera" expanded="True">
+            <Node name="RecruitCatPinisera" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Shared" expanded="True" />
+                <Node name="Apply.cshtml" expanded="True" />
+                <Node name="ContactUs.cshtml" expanded="True" />
+                <Node name="Index.cshtml" expanded="True" />
+                <Node name="OurTeam.cshtml" expanded="True" />
+                <Node name="Testimonials.cshtml" expanded="True" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="js" expanded="True" />
+                <Node name="lib" expanded="True">
+                  <Node name="jquery" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.RecruitCatPinisera PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
