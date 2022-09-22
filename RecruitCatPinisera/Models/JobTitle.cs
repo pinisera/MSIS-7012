@@ -43,8 +43,8 @@ namespace RecruitCatPinisera.Models
         //Relationships
 
         [DisplayName("Candidates")]
-        public List<Candidate> Candidates { get; set; }
+        public List<Candidate>? Candidates { get; set; }
         [DisplayName("Companies")]
-        public List<Company> Companies { get; set; }
+        public List<Company>? Companies { get; set; }
     }
 }

@@ -8,53 +8,133 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RecruitCatPinisera
 build_property.RootNamespace = RecruitCatPinisera
-build_property.ProjectDir = /Users/raveena/Desktop/IS7012/Week3/RecruitCatPinisera/RecruitCatPinisera/
+build_property.ProjectDir = /Users/raveena/Documents/RecruitCatPinisera/RecruitCatPinisera/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/raveena/Desktop/IS7012/Week3/RecruitCatPinisera/RecruitCatPinisera
+build_property.MSBuildProjectDirectory = /Users/raveena/Documents/RecruitCatPinisera/RecruitCatPinisera
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/raveena/Desktop/IS7012/Week3/RecruitCatPinisera/RecruitCatPinisera/Pages/Apply.cshtml]
+[/Users/raveena/Documents/RecruitCatPinisera/RecruitCatPinisera/Pages/Apply.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXBwbHkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/raveena/Desktop/IS7012/Week3/RecruitCatPinisera/RecruitCatPinisera/Pages/ContactUs.cshtml]
+[/Users/raveena/Documents/RecruitCatPinisera/RecruitCatPinisera/Pages/Candidates/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2FuZGlkYXRlcy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/raveena/Documents/RecruitCatPinisera/RecruitCatPinisera/Pages/Candidates/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2FuZGlkYXRlcy9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/raveena/Documents/RecruitCatPinisera/RecruitCatPinisera/Pages/Candidates/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2FuZGlkYXRlcy9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/raveena/Documents/RecruitCatPinisera/RecruitCatPinisera/Pages/Candidates/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2FuZGlkYXRlcy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/raveena/Documents/RecruitCatPinisera/RecruitCatPinisera/Pages/Candidates/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2FuZGlkYXRlcy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/raveena/Documents/RecruitCatPinisera/RecruitCatPinisera/Pages/Companies/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tcGFuaWVzL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/raveena/Documents/RecruitCatPinisera/RecruitCatPinisera/Pages/Companies/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tcGFuaWVzL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/raveena/Documents/RecruitCatPinisera/RecruitCatPinisera/Pages/Companies/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tcGFuaWVzL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/raveena/Documents/RecruitCatPinisera/RecruitCatPinisera/Pages/Companies/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tcGFuaWVzL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/raveena/Documents/RecruitCatPinisera/RecruitCatPinisera/Pages/Companies/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tcGFuaWVzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/raveena/Documents/RecruitCatPinisera/RecruitCatPinisera/Pages/ContactUs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29udGFjdFVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/raveena/Desktop/IS7012/Week3/RecruitCatPinisera/RecruitCatPinisera/Pages/Error.cshtml]
+[/Users/raveena/Documents/RecruitCatPinisera/RecruitCatPinisera/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/raveena/Desktop/IS7012/Week3/RecruitCatPinisera/RecruitCatPinisera/Pages/Index.cshtml]
+[/Users/raveena/Documents/RecruitCatPinisera/RecruitCatPinisera/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/raveena/Desktop/IS7012/Week3/RecruitCatPinisera/RecruitCatPinisera/Pages/OurTeam.cshtml]
+[/Users/raveena/Documents/RecruitCatPinisera/RecruitCatPinisera/Pages/Industries/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kdXN0cmllcy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/raveena/Documents/RecruitCatPinisera/RecruitCatPinisera/Pages/Industries/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kdXN0cmllcy9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/raveena/Documents/RecruitCatPinisera/RecruitCatPinisera/Pages/Industries/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kdXN0cmllcy9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/raveena/Documents/RecruitCatPinisera/RecruitCatPinisera/Pages/Industries/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kdXN0cmllcy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/raveena/Documents/RecruitCatPinisera/RecruitCatPinisera/Pages/Industries/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kdXN0cmllcy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/raveena/Documents/RecruitCatPinisera/RecruitCatPinisera/Pages/JobTitles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSm9iVGl0bGVzL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/raveena/Documents/RecruitCatPinisera/RecruitCatPinisera/Pages/JobTitles/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSm9iVGl0bGVzL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/raveena/Documents/RecruitCatPinisera/RecruitCatPinisera/Pages/JobTitles/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSm9iVGl0bGVzL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/raveena/Documents/RecruitCatPinisera/RecruitCatPinisera/Pages/JobTitles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSm9iVGl0bGVzL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/raveena/Documents/RecruitCatPinisera/RecruitCatPinisera/Pages/JobTitles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSm9iVGl0bGVzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/raveena/Documents/RecruitCatPinisera/RecruitCatPinisera/Pages/OurTeam.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvT3VyVGVhbS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/raveena/Desktop/IS7012/Week3/RecruitCatPinisera/RecruitCatPinisera/Pages/Privacy.cshtml]
+[/Users/raveena/Documents/RecruitCatPinisera/RecruitCatPinisera/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/raveena/Desktop/IS7012/Week3/RecruitCatPinisera/RecruitCatPinisera/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/raveena/Documents/RecruitCatPinisera/RecruitCatPinisera/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/raveena/Desktop/IS7012/Week3/RecruitCatPinisera/RecruitCatPinisera/Pages/Testimonials.cshtml]
+[/Users/raveena/Documents/RecruitCatPinisera/RecruitCatPinisera/Pages/Testimonials.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvVGVzdGltb25pYWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/raveena/Desktop/IS7012/Week3/RecruitCatPinisera/RecruitCatPinisera/Pages/_ViewImports.cshtml]
+[/Users/raveena/Documents/RecruitCatPinisera/RecruitCatPinisera/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/raveena/Desktop/IS7012/Week3/RecruitCatPinisera/RecruitCatPinisera/Pages/_ViewStart.cshtml]
+[/Users/raveena/Documents/RecruitCatPinisera/RecruitCatPinisera/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/raveena/Desktop/IS7012/Week3/RecruitCatPinisera/RecruitCatPinisera/Pages/Shared/_Layout.cshtml]
+[/Users/raveena/Documents/RecruitCatPinisera/RecruitCatPinisera/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-r4mwsq2lsb
